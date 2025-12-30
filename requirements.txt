@@ -1,0 +1,9 @@
+streamlit
+streamlit-mic-recorder
+deepface
+openai-whisper
+transformers
+torch
+tensorflow
+opencv-python
+numpy
